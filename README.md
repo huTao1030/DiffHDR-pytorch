@@ -86,5 +86,6 @@ If you find this repo useful, please consider citing:
 Our work is inspired by the following works and uses parts of their official implementations:
 * [WeatherDiffusion](https://github.com/IGITUGraz/WeatherDiffusion)
 * [AHDRNet](https://github.com/qingsenyangit/AHDRNet)
+* [HDR-Transformer](https://github.com/liuzhen03/HDR-Transformer-PyTorch)
 
 Thanks to their great work!
