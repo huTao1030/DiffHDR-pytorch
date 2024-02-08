@@ -53,7 +53,6 @@ conda env create -n DiffHDR -f environment.txt
 ```
 3. Prepare the cropped training set by running gen_crop_data.py from [HDR-Transformer](https://github.com/liuzhen03/HDR-Transformer-PyTorch) (optional, produces better results compared to random cropping):
 ```
-cd ./dataset
 python gen_crop_data.py
 ```
 ### Training & Evaluaton
